@@ -65,9 +65,9 @@ spring:
   mail:
     host: smtp.qq.com
     ### 发送者邮箱
-    username: 2533906024@qq.com
+    username: 1234567@qq.com
     ### 设置的授权码
-    password: jkpxkfvnhtgwebde
+    password: aaaaaaaaaa
     ### 默认编码
     default-encoding: UTF-8
     # 配置SSL 加密工厂
