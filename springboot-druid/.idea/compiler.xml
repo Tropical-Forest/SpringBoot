@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ay-user-service" />
+        <module name="ay-mood-api" />
+        <module name="ay-role-api" />
+        <module name="ay-role-service" />
+        <module name="springboot-druid" />
+        <module name="ay-user-api" />
+        <module name="ay-mood-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ay-mood-api" target="11" />
+      <module name="ay-mood-service" target="11" />
+      <module name="ay-role-api" target="11" />
+      <module name="ay-role-service" target="11" />
+      <module name="ay-user-api" target="11" />
+      <module name="ay-user-service" target="11" />
+      <module name="springboot-druid" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ay-mood-api" options="-parameters" />
+      <module name="ay-mood-service" options="-parameters" />
+      <module name="ay-role-api" options="-parameters" />
+      <module name="ay-role-service" options="-parameters" />
+      <module name="ay-user-api" options="-parameters" />
+      <module name="ay-user-service" options="-parameters" />
+      <module name="springboot-druid" options="-parameters" />
+    </option>
+  </component>
+</project>

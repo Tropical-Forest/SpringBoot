@@ -1,0 +1,13 @@
+person:
+  name: lpy
+  age: 3
+  happy: false
+  birth: 2022/01/16
+  maps: {}
+  lists:
+    - code
+    - music
+    - girl
+  dog:
+    name: 旺财
+    age: 3

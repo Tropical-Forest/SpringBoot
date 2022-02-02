@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ay-mood-api/ay-mood-api.iml" filepath="$PROJECT_DIR$/ay-mood-api/ay-mood-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ay-mood-service/ay-mood-service.iml" filepath="$PROJECT_DIR$/ay-mood-service/ay-mood-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ay-role-api/ay-role-api.iml" filepath="$PROJECT_DIR$/ay-role-api/ay-role-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ay-role-service/ay-role-service.iml" filepath="$PROJECT_DIR$/ay-role-service/ay-role-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ay-user-api/ay-user-api.iml" filepath="$PROJECT_DIR$/ay-user-api/ay-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ay-user-service/ay-user-service.iml" filepath="$PROJECT_DIR$/ay-user-service/ay-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-druid.iml" filepath="$PROJECT_DIR$/springboot-druid.iml" />
+    </modules>
+  </component>
+</project>

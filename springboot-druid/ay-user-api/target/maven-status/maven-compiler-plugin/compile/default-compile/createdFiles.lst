@@ -1,0 +1,3 @@
+com\example\ayuserapi\domain\AyUser.class
+com\example\ayuserapi\api\AyUserDubboService.class
+com\example\ayuserapi\AyUserApiApplication.class
